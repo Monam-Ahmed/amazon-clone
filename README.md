@@ -14,4 +14,4 @@ run #npm install
 #npm start
 
 
-*Developed and used Amazon Logo and name to practice react.
+*Developed and used Amazon Logo and name to practice react. Done
