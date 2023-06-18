@@ -13,5 +13,7 @@ run #npm install
 
 #npm start
 
+the project will open at localhost:3000
+
 
 *Developed and used Amazon Logo and name to practice react. Done
